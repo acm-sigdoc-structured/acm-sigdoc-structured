@@ -1,1 +1,1 @@
-# Examples supporting "How does DITA support content reuse. 
+# Sample source files in support of ACM SIGDOC Structured Authoring articles.  
